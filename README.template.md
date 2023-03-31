@@ -1,6 +1,6 @@
 # Hi, it's coderweb1! (｡･ω･｡)ﾉ ♡
 
->A Front end developer from Beijing, China.
+<!-- >A Front end developer from Beijing, China.
 
 <!-- ### 📫 Reach me:
 
@@ -52,7 +52,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 
 
----
+--- -->
 
 ### About My Github Stats
 
