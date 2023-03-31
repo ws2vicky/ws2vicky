@@ -15,7 +15,7 @@
 ### MySkills
 
 这个笨蛋大概对这些东西会用一点点：
-
+<!-- 
 **💪Development**
 
 <p>
@@ -42,7 +42,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white" />
 </p>
-
+ -->
 **🧰 Now Coding With**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -75,6 +75,6 @@
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：3/31/23, 15:29:15
+最近一次刷新于：3/31/23, 15:33:40
 </p>
   
