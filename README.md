@@ -70,13 +70,13 @@
 
 ### 📈 Activity Graph：
 
-![coderweb1's github activity graph](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=react-dark)
-![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=dracula)
+![](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=react-dark)
+
 ---
 
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：4/7/23, 19:10:55
+最近一次刷新于：4/7/23, 19:18:38
 </p>
   
