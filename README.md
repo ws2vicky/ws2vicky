@@ -70,8 +70,8 @@
 
 ### 📈 Activity Graph：
 
-![](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=react-dark)
-
+![coderweb1's github activity graph](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=react-dark)
+![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula)
 ---
 
 
