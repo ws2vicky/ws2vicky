@@ -71,5 +71,3 @@
 ![](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=react-dark)
 
 ---
-
-<!-- footer -->
