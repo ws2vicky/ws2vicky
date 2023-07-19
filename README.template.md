@@ -4,7 +4,7 @@
 
 ### 📫 Reach me:
 
-- **E-mail** : 321984967@qq.com
+- **E-mail** :  ws2vicky@outlook.com
 
 ### 🏠 Blog：
 
