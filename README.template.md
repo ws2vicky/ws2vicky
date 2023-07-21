@@ -4,23 +4,24 @@
 
 ### 📫 Reach me:
 
-- **E-mail** :  ws2vicky@outlook.com
+- **E-mail** : ws2vicky@outlook.com
 - **WeChat** : ws2vicky
 - **QQ** : 321984967
 - **Phone** : 17633156941
-> I am looking for a job, if interested, add me on WeChat
+  > I am looking for a job, if interested, add me on WeChat
 
 ### 🏠 Blog：
 
--  **语雀**: **[https://www.yuque.com/coderweb](https://www.yuque.com/coderweb)**
- 
+- **语雀**: **[https://www.yuque.com/coderweb](https://www.yuque.com/coderweb)**
 
 ---
 
 ### MySkills
 
- <!-- 这个笨蛋大概对这些东西会用一点点：-->
- This idiot probably knows how to use these things a little bit:
+<!--
+这个笨蛋大概对这些东西会用一点点： -->
+
+<p> This idiot probably knows how to use these things a little bit:</p>
 **💪Development**
 
 <p>
