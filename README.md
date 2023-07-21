@@ -8,7 +8,7 @@
 - **WeChat** : ws2vicky
 - **QQ** : 321984967
 - **Phone** : 17633156941
-> 正在求职中，有意加我WeChat
+> I am looking for a job, if interested, add me on WeChat
 
 ### 🏠 Blog：
 
@@ -19,8 +19,8 @@
 
 ### MySkills
 
-这个笨蛋大概对这些东西会用一点点：
-
+ <!-- 这个笨蛋大概对这些东西会用一点点：-->
+This idiot probably knows how to use these things a little bit:
 **💪Development**
 
 <p>
@@ -81,6 +81,6 @@
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：7/22/23, 06:17:15
+最近一次刷新于：7/22/23, 06:35:28
 </p>
   
