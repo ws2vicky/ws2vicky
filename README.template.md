@@ -20,7 +20,7 @@
 ### MySkills
 
  <!-- 这个笨蛋大概对这些东西会用一点点：-->
-This idiot probably knows how to use these things a little bit:
+ This idiot probably knows how to use these things a little bit:
 **💪Development**
 
 <p>
