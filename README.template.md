@@ -5,6 +5,10 @@
 ### 📫 Reach me:
 
 - **E-mail** :  ws2vicky@outlook.com
+- **WeChat** : ws2vicky
+- **QQ** : 321984967
+- **Phone** : 17633156941
+> 正在求职中，有意加我WeChat
 
 ### 🏠 Blog：
 
