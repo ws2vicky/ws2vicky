@@ -8,7 +8,7 @@
 - **WeChat** : ws2vicky
 - **QQ** : 321984967
 - **Phone** : 17633156941
-> 正在求职中，有意加我WeChat
+> I am looking for a job, if interested, add me on WeChat
 
 ### 🏠 Blog：
 
@@ -19,8 +19,8 @@
 
 ### MySkills
 
-这个笨蛋大概对这些东西会用一点点：
-
+ <!-- 这个笨蛋大概对这些东西会用一点点：-->
+This idiot probably knows how to use these things a little bit:
 **💪Development**
 
 <p>
