@@ -5,6 +5,10 @@
 ### 📫 Reach me:
 
 - **E-mail** :  ws2vicky@outlook.com
+- **WeChat** : ws2vicky
+- **QQ** : 321984967
+- **Phone** : 17633156941
+> 正在求职中，有意加我WeChat
 
 ### 🏠 Blog：
 
@@ -77,6 +81,6 @@
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：7/21/23, 20:31:06
+最近一次刷新于：7/22/23, 06:08:42
 </p>
   
