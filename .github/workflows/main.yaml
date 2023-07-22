@@ -24,7 +24,7 @@ jobs:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('pnpm-lock.yaml') }}
       - name: Install dependencies
-        run: npm install -g pnpm && pnpm
+        run: npm install -g pnpm && pnpm i
       - name: Generate README file
         run: pnpm gen
       - name: Commit and Push new README.md to the repository
