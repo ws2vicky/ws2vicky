@@ -2,7 +2,7 @@
 	"name": "coderweb1-profile-readme-generator",
 	"version": "1.0.0",
 	"main": "index.js",
-	"repository": "git@github.com:coderweb1/coderweb1.git",
+	"repository": "git@github.com:ws2vicky/ws2vicky.git",
 	"license": "MIT",
 	"scripts": {
 		"gen": "tsc && node dist/index.js"
