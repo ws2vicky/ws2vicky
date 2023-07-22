@@ -22,9 +22,9 @@ jobs:
         uses: actions/cache@v3
         with:
           path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('pnpm-lock.yaml') }}
+          key: ${{ runner.os }}-js-${{ hashFiles('yarn.lock') }}
       - name: Install dependencies
-        run: npm install -g pnpm && pnpm i
+        run: npm install -g yarn && yarn i
       - name: Generate README file
         run: pnpm gen
       - name: Commit and Push new README.md to the repository
