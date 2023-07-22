@@ -13,13 +13,13 @@ jobs:
 
     steps:
       - name: Checkout current repository to master branch.
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Setup Nodejs.
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: "18.x"
+          node-version: "16.x"
       - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('pnpm-lock.yaml') }}
