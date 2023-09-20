@@ -5,9 +5,7 @@
 ### 📫 Reach me:
 
 - **E-mail** : ws2vicky@outlook.com
-- **WeChat** : ws2vicky
-- **QQ** : 321984967
-- **Phone** : 17633156941
+
 
 > I am looking for a job, if interested, add me on WeChat
 
