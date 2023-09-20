@@ -5,9 +5,7 @@
 ### 📫 Reach me:
 
 - **E-mail** : ws2vicky@outlook.com
-- **WeChat** : ws2vicky
-- **QQ** : 321984967
-- **Phone** : 17633156941
+
 
 > I am looking for a job, if interested, add me on WeChat
 
@@ -82,6 +80,6 @@
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：9/20/23, 08:32:47
+最近一次刷新于：9/20/23, 16:27:43
 </p>
   
