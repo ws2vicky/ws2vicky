@@ -12,8 +12,7 @@
 ### 🏠 Blog：
 
 - **语雀**: **[https://www.yuque.com/coderweb](https://www.yuque.com/coderweb)**
-- 
-- 邮箱<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=GSorKCAhLSAvLlloaDd6dnQ" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_21.png"/></a>
+
 
 ---
 
