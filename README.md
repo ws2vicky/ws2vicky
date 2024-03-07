@@ -74,13 +74,13 @@
 
 ### 📈 Activity Graph：
 
-![](https://activity-graph.herokuapp.com/graph?username=ws2vicky&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ws2vicky&theme=react-dark)](https://github.com/ws2vicky/github-readme-activity-graph)
 
 ---
 
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：3/7/24, 08:27:39
+最近一次刷新于：3/7/24, 15:03:25
 </p>
   
