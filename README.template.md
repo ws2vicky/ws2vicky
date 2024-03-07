@@ -74,7 +74,7 @@
 
 ### 📈 Activity Graph：
 
-![](https://activity-graph.herokuapp.com/graph?username=ws2vicky&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ws2vicky&theme=react-dark)](https://github.com/ws2vicky/github-readme-activity-graph)
 
 ---
 
