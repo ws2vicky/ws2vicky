@@ -5,7 +5,7 @@
 ### 📫 Reach me:
 
    - **E-mail** :
-   - **Wechat** :
+   - **WeChat** :
 
 
 > I am looking for a job, if interested, add me on WeChat
