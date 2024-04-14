@@ -1,0 +1,14 @@
+{
+	"name": "coderweb1-profile-readme-generator",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:ws2vicky/ws2vicky.git",
+	"license": "MIT",
+	"scripts": {
+		"gen": "tsc && node dist/index.js"
+	},
+	"dependencies": {
+		"@types/node": "^18.7.11",
+		"typescript": "^4.7.4"
+	}
+}
