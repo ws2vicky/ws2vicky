@@ -5,7 +5,7 @@
 ### 📫 Reach me:
 
    - **E-mail** :
-   - **Wechat** :
+   - **WeChat** :
 
 
 > I am looking for a job, if interested, add me on WeChat
@@ -82,6 +82,6 @@
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：4/14/24, 20:39:52
+最近一次刷新于：4/14/24, 20:52:06
 </p>
   
