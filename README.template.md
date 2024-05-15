@@ -1,6 +1,6 @@
 # Hi, it's ws2vicky! (｡･ω･｡)ﾉ ♡
 
-> A Front end developer from Beijing, China.
+> A Front end developer from Changsha, China.
 
 ### 📫 Reach me:
 
