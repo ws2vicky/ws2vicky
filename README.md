@@ -1,6 +1,6 @@
 # Hi, it's ws2vicky! (｡･ω･｡)ﾉ ♡
 
-> A Front end developer from Beijing, China.
+> A Front end developer from Changsha, China.
 
 ### 📫 Reach me:
 
@@ -82,6 +82,6 @@
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：5/15/24, 08:52:05
+最近一次刷新于：5/15/24, 11:35:16
 </p>
   
