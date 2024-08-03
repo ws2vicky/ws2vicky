@@ -38,7 +38,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
    <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
- <img alt="Verilog" src="https://img.shields.io/badge/-Verilog-000000?style=flat-square&logo=data:image/svg+xml;base64,这里应该是Verilog图标的Base64编码或者替换为none" />
+<img alt="Verilog" src="https://img.shields.io/badge/-Verilog-000000?style=flat-square" />
 
 </p>
 
